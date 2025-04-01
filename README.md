@@ -60,8 +60,8 @@ I love creating clean and efficient code, solving challenges, and continuously l
 <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
     </a>
-  <a href="https://www.phpmyadmin.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" alt="phpMyAdmin" width="40" height="40"/>
+<a href="https://www.phpmyadmin.net/" target="_blank">
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
 </a>
 
  <a href="https://www.php.net/" target="_blank">

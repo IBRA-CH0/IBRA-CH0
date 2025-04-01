@@ -27,7 +27,7 @@ I love creating clean and efficient code, solving challenges, and continuously l
 - UX/UI Best Practices
 
 ---
-## 🤝 Skills
+## 🛠️ Technologies & Tools
 <p align="left">
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>

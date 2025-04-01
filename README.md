@@ -67,9 +67,8 @@ I love creating clean and efficient code, solving challenges, and continuously l
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
     </a>
 <a href="https://laragon.org/" target="_blank">
-  <img src="./images/laragon-logo.svg" alt="Laragon" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/-Laragon-F47216?style=flat-square&logo=laragon&logoColor=white" alt="Laragon"/>
 </a>
-
 </p>
 
 

@@ -44,10 +44,20 @@ I love creating clean and efficient code, solving challenges, and continuously l
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
     </a>
-    <a href="https://wordpress.org/" target="_blank">
+     <a href="https://getbootstrap.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+    </a>   
+ <a href="https://wordpress.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
     </a>
-    <a href="https://www.postgresql.org/" target="_blank">
+  <a href="https://laragon.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Laragon-F47216?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon"/>
+</a>
+     <a href="https://www.docker.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+    </a>   
+    
+<a href="https://www.postgresql.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
     </a>
     <a href="https://www.phpmyadmin.net/" target="_blank">
@@ -65,9 +75,9 @@ I love creating clean and efficient code, solving challenges, and continuously l
     <a href="https://angular.io/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
+ <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-    </a>
+ </a>
 </p>
 
 

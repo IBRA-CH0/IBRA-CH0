@@ -69,10 +69,7 @@ I love creating clean and efficient code, solving challenges, and continuously l
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
     </a>
 </p>
-- **Problem-solving:** Strong analytical skills from my psychology background help me approach coding logically.
-- **Adaptability:** Quick learner with a passion for evolving in the tech world.
-- **Collaboration:** Enjoy working in teams and open to constructive feedback.
-- **Empathy & Communication:** Ability to understand user needs and translate them into technical solutions.
+
 
 ---
 ## 🚀 Projects

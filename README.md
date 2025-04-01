@@ -45,9 +45,9 @@ Feel free to explore my repositories! More projects coming soon. 🚧
 
 ---
 ## 📫 Get in Touch
-- **GitHub**: [github.com/YourGitHubUsername](#)  
-- **LinkedIn**: [linkedin.com/in/YourLinkedInProfile](#)  
-- **Email**: your.email@example.com  
+- **GitHub**: https://github.com/IBRA-CH0
+- **LinkedIn**: https://www.linkedin.com/in/ibrahim-chorfi-090807212/
+- **Email**: ibra.chorfi@gmail.com 
 
 Let's connect and build something amazing together! 🚀
 

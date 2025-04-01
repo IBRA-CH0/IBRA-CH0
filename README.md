@@ -66,9 +66,10 @@ I love creating clean and efficient code, solving challenges, and continuously l
     <a href="https://www.figma.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
     </a>
-    <a href="https://laragon.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/laragon/laragon/main/docs/img/laragon-logo.svg" alt="Laragon" width="40" height="40"/>
+ <a href="https://laragon.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Laragon_Logo.svg" alt="Laragon" width="40" height="40"/>
 </a>
+
 </p>
 
 

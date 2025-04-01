@@ -28,6 +28,7 @@ I love creating clean and efficient code, solving challenges, and continuously l
 
 ---
 ## 🤝 Soft Skills
+https://firebase.google.com/
 - **Problem-solving:** Strong analytical skills from my psychology background help me approach coding logically.
 - **Adaptability:** Quick learner with a passion for evolving in the tech world.
 - **Collaboration:** Enjoy working in teams and open to constructive feedback.

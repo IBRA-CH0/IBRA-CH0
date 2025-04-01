@@ -27,7 +27,7 @@ I love creating clean and efficient code, solving challenges, and continuously l
 - UX/UI Best Practices
 
 ---
-## 🤝 Soft Skills
+## 🤝 Skills
 <p align="left">
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
@@ -63,7 +63,7 @@ I love creating clean and efficient code, solving challenges, and continuously l
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
     </a>
    <a href="https://laragon.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/MahmoudZak3ria/Resources/main/laragon-logo.png" alt="Laragon" width="40" height="40"/>
+    <img src=https://seeklogo.com/images/L/laragon-logo-D8819D2A8F-seeklogo.com.png" alt="Laragon" width="40" height="40"/>
 </a>
     <a href="https://www.figma.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
